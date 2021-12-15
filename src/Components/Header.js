@@ -33,7 +33,7 @@ export const Header = ({currentUser}) => {
             <div className='leftside'>
                 <div className='content'>
                     <div className='heading-big'>
-                    Testing
+                    To do list
                     </div>
                 </div>
             </div>
