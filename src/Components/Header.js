@@ -33,7 +33,7 @@ export const Header = ({currentUser}) => {
             <div className='leftside'>
                 <div className='content'>
                     <div className='heading-big'>
-                    To do list
+                    Testing
                     </div>
                 </div>
             </div>
@@ -59,8 +59,6 @@ export const Header = ({currentUser}) => {
                  
                 </>}
                 {currentUser&&<div className='welcome-div'>
-
-                    {/* <h2>WELCOME</h2> */}
                     <h5>{currentUser}</h5>
                     <br></br>
                     <div className='date-section'>
