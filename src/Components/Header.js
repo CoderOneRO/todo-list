@@ -48,7 +48,7 @@ export const Header = ({currentUser}) => {
                   <Link className='btn btn-secondary btn-md' to="login">
                      LOGIN
                   </Link>
-
+                  
                   <br></br>
                   <div className='date-section'>
                       <span>{date}</span>
